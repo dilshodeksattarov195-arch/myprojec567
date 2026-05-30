@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartsecrypt",
+        "uuid": 3394629,
+        "checksum": "qww2a"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
